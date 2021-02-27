@@ -20,4 +20,4 @@ A fotografia expressa a psicologia do olhar e substitui o realismo da pintura, a
 * O Lidimismo esteticamente pode lembrar o Surrealismo, mas ele é feito de maneira consciente e com automatismos direcionados ao conceito visto como real e não somente o subconsciente puro e aleatório;
 * A realidade é incompleta. Cabe a arte usar a lógica, a razão e a ética para preencher essas lacunas e servir a um espectro maior, social, e não um espectro de arte pela arte.
 * Não buscar uma estética renascentista ou academicista de modo geral apenas para mostrar supostas habilidades.
-* Somente a ciência e a filosofia cética, analítica,  podem levar a um futuro mais passível de ser vivido.
+* Somente a ciência e a filosofia cética, analítica,  podem levar a um futuro onde é possível viver todo o espectro da humanidade.
