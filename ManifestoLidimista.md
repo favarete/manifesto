@@ -18,73 +18,42 @@ A facilidade de reprodução em massa, junto com o desejo do artista em mostrar 
 
 Encontramos, então, uma paisagem devastada para viver, um mundo habitado pela ignorância ridícula da sociedade. Ignorância que se torna ainda mais preocupante quando notamos que está ligada a interesses de grupos que precisam se autoafirmar em bases inexistentes.
 
-
---
-revisão 1 ← O que deve ser feito
 --
 
-#### 
-A arte não deve ser engolida pelo momento, pelo mau gosto dessa época, e o artista que se sente estrangeiro em qualquer lugar do planeta não deve se entregar a correnteza. Não deve vender o espaço para a criatividade a trabalhos que servem apenas ao propósito do bem-estar básico, trabalhos que são realizados de maneira automática, quase irracional.
-Artistas contemporâneos podem ser pegos por tendências autodestrutivas atuais, como a busca por interações em redes sociais e a entrega a estéticas do passado para conquistar reconhecimento. Podem imitar técnicas, elementos e contextos de mestres do passado, ou necessariamente utilizar materiais que estavam disponíveis naquela época. Podem querer se sentir um renascentista ou academicista de modo geral apenas para mostrar supostas habilidades e autoridade, destruindo sua originalidade. A arte como ferramenta social deve reagir
-Sabendo que podemos analisar qualquer tema em face de seus fenômenos visíveis. Sabendo que podemos analisar intuitivamente, com base no conhecimento, os fenômenos invisíveis. Podemos criar a arte real que concretiza um instante de pensamento completo, mas rejeitando a tese do realismo, pois não temos acesso ao que vemos de forma imediata. Nossa arte sempre instiga a reflexão em qualquer medida, esforçando-se para se manter afastada da apatia da arte comercial e sem valor.
+A arte não deve ser engolida pelo momento, pelo egoísmo, pelo mau gosto, pela desvalorização e tirania dessa época. O artista que se sente deslocado não deve entregar-se a vontade dos que querem a sua entrega. Não deve vender o espaço para a criatividade dentro de seus pensamentos diários a trabalhos que servem apenas ao propósito do bem-estar básico, da sobrevivência; trabalhos que são realizados de maneira quase irracional.
 
-Existe a arte e ela não é criada por blocos separados, como pintura, escrita, escultura etc. ela apenas é
-Quando falamos de linguagem, falamos do mediador entre a realidade e nossa mente, a realidade só existe dentro de nós através da linguagem
+É um momento onde é possível levar a galeria até as pessoas através da tecnologia, mas a mesma tecnologia também trás a flor grandes falhas que carregamos de nossa evolução como seres sociais. Grande parte das falhas deságua na busca cega por valor, que é visto apenas em interações em redes sociais, números, que não deveriam ser usados pra medir qualidade. Segue-se o abandono da originalidade, em troca a uma entrega perturbada a estéticas do passado para conquistar reconhecimento similar nos dias diferentes. Imitar técnicas, elementos e contextos de mestres pregressos — ou obrigatoriamente utilizar materiais que estavam disponíveis naquela época —, o desejo de se sentir um renascentista ou academicista de outrora apenas para mostrar supostas habilidades e autoridade, leva a arte a apatia estética. A arte como ferramenta social, como signo de comunicação profunda, deve reagir, deve acompanhar o progresso das eras e quando essa era deixar-se estacar, deve puxá-la.
+
+Sabendo que podemos analisar qualquer tema em face de seus fenômenos visíveis e inferir os invisíveis após análise cética profunda. Sabendo que podemos analisar intuitivamente, com base no conhecimento que carregamos, as linhas temporais e espaciais do assunto abordado. Podemos criar a arte real e inferida que concretiza um instante de pensamento completo, uma exposição onde o que todos veem e o que apenas o artista vê convivem. Rejeitando a tese do Realismo, pois não temos acesso ao que vemos de forma imediata, instantânea. Rejeitando também o automatismo puro e aleatório do subconsciente pregado pelo Surrealismo, pois é ele que faz a geração atual fugir de reflexões necessárias a sua própria sobrevivência e a sobrevivência de criaturas que não podem fazer as próprias escolhas.
+
+A arte não é criada por blocos separados, ela apenas é. Ela instiga a reflexão, mesmo que isso a afaste da apatia da arte comercial. Acima de tudo, ela comunica; e quando falamos de linguagem, falamos do mediador entre a realidade e nossa mente, a realidade só existe dentro de nós através da linguagem. Traduções sempre serão versões do original, nunca expressarão a mesma coisa. Conceitos se perdem e sensações não encontram mais formas em nossa voz interior na ausência da linguagem. Nossa pátria é a nossa língua, disse Fernando Pessoa. Nós habitamos nossa língua e através da arte temos a possibilidade de compartilhar uma pátria com o mundo, uma língua em comum. É tolo deixar essa linguagem abandonada à futilidades sem valor e razão. 
+
+Em concordância com o que acreditamos, o nome designado para o novo modo de expressão à disposição é LIDIMISMO, palavra que deve ser entendida de maneira particular. Define-se:
+
+LIDIMISMO. s.m Ceticismo em busca do entendimento da verdade, pelo qual busca-se exprimir musicalmente, por escrito, pinturas, tatuagens e qualquer outro meio criativo, a realidade compartilhando espaço com inferências analisadas pelo artista. Aplicada as coisas que podemos enxergar e as que só podemos imaginar e expressar. A expressão de tal entendimento é feita comumente em caráter simbólico, com similaridades estéticas com outros movimentos, como o Surrealista e o Realismo Fantástico.
+
+A arte é uma forma de filosofia que nos ajuda no entendimento da experiência humana. O mundo natural está ultrapassado para as artes, ele ainda pode ser capturado por pinturas, música e fotografias, mas pouco diz sobre o que mostra, pouco aprofunda sem a ajuda de mais ferramentas. Essa arte nascida de uma vista já cansada só pode emocionar como a capa de um livro fechado. O verdadeiro mundo natural é subentendido em nosso tempo, ele não pode ser visto apenas com o que os olhos mostram num primeiro momento, ele precisa da leitura do livro. O movimento Lidimista retrata o que sua etimologia nos ensina: o que é admitido como legítimo, verdadeiro; autêntico, genuíno em todas as suas representações, deve ser o que vemos além da superficialidade do que nossos olhos nos mostram no mundo, mesmo que essa representação necessite de irrealidades que expliquem o real.
+
+O ceticismo e a racionalidade de maneira alguma atrapalham a criação livre e espontânea, a experiência interpretativa surge do ceticismo. Fatos são diferentes de opiniões, mas as opiniões podem nascer do ceticismo sincero, podem ser questionadoras. Da mesma forma, a preocupação estética não deve limitar a criação da arte; estamos criando formas de comunicar ideias profundas, assim, luz e sombra podem ter vida própria na arte — podem ser mais que uma extensão do tema principal —; as coisas mostradas podem não ser possíveis de serem vistas na realidade ordinária, mas a própria realidade ordinária é lida pelo artista em busca de informação, do tempo passado e futuro do tema escolhido, para ser expressa em linguagem, em realidade extraordinária, expressa de maneira menos óbvia, de maneira esteticamente irreal, estimulando o pensamento antes esquecido em meio a redes sociais e rotinas de trabalho em prol da sobrevivência.
+
+Ainda, como a fotografia expressa a psicologia do olhar e ao absorver a luz substitui a necessidade do realismo das pinturas; o lidimista pode absorver o bizarro, pode absorver o real e fazê-lo surgir do que foi absorvido; pode expressar conceitos profundos, sem nunca fazê-los de maneira fútil ou aleatória, pois toda estética serve a um propósito, serve a uma ideia de comunicação. São tempos onde o homem ignora que não é o centro, não é o protagonista da existência universal e quando pensamos em um contexto global, torna-se difícil acreditar que o homem perceberá este fato apenas com o que o homem pode ver no dia a dia, um mundo de automatismos que são levados do cidadão comum para as galerias. O automatismo no pensamento e nas ações é uma das ruínas de nosso tempo. O Lidimismo é o que pode ser construído no lugar dessas ruínas.
+
+Inferimos daí que, por exemplo, como muitos escritores entendem que a qualidade de sua escrita se dá uma parte pelo tamanho dos seus textos, do seu sucesso quando, em uma era com tantas informações inúteis disponíveis, não deveríamos escrever informações que não valham a pena. As pessoas cada vez mais sentem o impacto de tantas distrações e informações inúteis; sentem quando não percebem o tempo passar em frente aos seus celulares, sentem quanto começam a ficar cansadas sem terem feito nada relevante.
+
+Inferimos também que a música como ferramenta de expressão mais popular que já desenvolvemos, não deveria se entregar ao capitalismo de forma a conceber apenas obras descartáveis e sem nenhuma profundidade — obras unicamente populares, usadas para a distração no dia a dia —, ignorando todo o fractal possível de ser obtido dela de maneira racional.
+
+Além disso, pegue como exemplo um dos milhões de moradores de rua durante a noite na cidade de São Paulo, grande metrópole do Brasil. O realismo se preocuparia apenas com a reprodução fiel dos detalhes da cena, artistas abstratos fariam o mesmo, mas de uma forma mais pessoal. Surrealistas se entregariam ao subconsciente e qualquer aleatoriedade que ali encontrassem, lidimistas representariam o visível e o invisível, a fome tomaria forma, assim como o desconhecido da noite nas ruas, o medo, o abandono, sinais dos possíveis motivos até aquele momento exato, extrapolações para momentos futuros, todo o possível de ser analisado e inferido tomaria vida em uma arte que não seria vazia de razão para existir, mesmo que o artista optasse por não revelar toda a análise, preferindo deixar para o público o quebra-cabeças que deverá ser montado peça a peça. O absurdo que significa esconder a realidade para obter benefício próprio, de financeiro aos relacionados à saúde mental e autoestima, é mostrado através do irreal e utópico, ultrapassando a realidade, que já não pode ser entendida tão facilmente. O Irreal pode ser visto como sendo algo não só possível, mas cotidiano, comum. A duvida pode ser usada para chegar em uma expressão, uma arte desenganadora. Que a arte lidimista more não só nas galerias, mas também nas ruas; que a arte seja a linguagem usada para explicar o profundo!
 
 
-O nome designado para o novo modo de expressão à disposição é LIDIMISMO, palavra que deve ser entendida de maneira particular. Define-se:
+Por fim, sabemos o quanto o mundo deixou de ser linear — talvez nunca tenha sido —, então a perspectiva nas artes também deve deixar de ser linear da mesma forma, ela pode ser forçada, curvilínea, esférica, não-euclideana, atonal. Não pode ser óbvia. O minimalismo pode ser complexo em períodos como este, onde a era da verdade já foi deixada para trás. Hoje a realidade é incompleta; cabe a arte usar a lógica, a razão e a ética para preencher essas lacunas e servir a um espectro maior, social, e não um espectro de arte pela arte. Temos a ciência e tecnologia humanitária como aliadas, mas a mesma ciência e tecnologia financeira facilitou as falsificações, destruiu nossa privacidade. É necessário então criptografar, utilizar a _blockchain_ ou outra tecnologia facilitadora de nosso tempo para registro de toda arte, garantindo a autenticidade do seu trabalho e colaborando com a análise lógica de especialistas no futuro. Abraçar o tempo que desejamos para nós. Somente a ciência e a filosofia cética, analítica,  podem levar a um futuro onde é possível viver todo o espectro da humanidade.
 
-LIDIMISMO. s.m Ceticismo em busca do entendimento da verdade, pelo qual busca-se exprimir musicalmente, por escrito, pinturas, tatuagens e qualquer outro meio criativo, a realidade escondida nas coisas que podemos imaginar e enxergar. A expressão de tal entendimento é feita em caráter simbólico, esteticamente surrealista e fantástica.
+---
 
-O mundo natural está ultrapassado para as artes, ele ainda pode ser capturado por pinturas, música e fotografias, mas pouco diz sobre o que mostram. Essa arte só pode emocionar com mentiras. O mundo natural é subentendido em nosso tempo, ele não pode ser visto apenas com o que os olhos mostram num primeiro momento. O movimento Lidimista retrata o que sua etimologia nos ensina: o que é admitido como legítimo, verdadeiro, autêntico, genuíno, deve ser o que vemos além do que nossos olhos nos mostram.
+Este manifesto é um filho de seu tempo, mas deve ser intemporal, um filho que deverá evoluir para outros tempos e ser contra o tempo, deverá ser atualizado, coletivo, aprimorado. Um lembrete do poder da arte em tempos de dificuldade. Este manifesto é atemporal enquanto vivermos em um mundo de insanidades, enquanto vivermos tempos de abusos que são normalizados e esquecidos, os humanitários e os relacionados ao direito dos animais; e enquanto houver pessoas interessadas em algo melhor do que este mundo, com humildade em relação a razão
+Com a esperança de um dia este texto se tornar apenas uma referência de épocas passadas onde a ignorância e superficialidade precisavam ser combatidas pois, de alguma forma, ainda eram celebradas.
 
-
-o ceticismo e a racionalidade de maneira alguma atrapalham a criação livre e espontânea
-Fatos são diferentes de opiniões
-
-Pode-se expressar a arte por escrito, verbalmente, musicalmente, em pinturas, tatuagens ou por qualquer outro meio criativo, a preocupação estética não limita a criação da arte, luz e sombra podem ter vida própria na arte, sem as limitações da física na realidade quando a própria realidade é lida pelo artista em busca de verdade e da história do tema escolhido, do tempo passado, do futuro do tema escolhido.
-A fotografia expressa a psicologia do olhar e substitui o realismo da pintura, assim o bizarro pode surgir do que foi absorvido pelo artista, mas isso não é feito de maneira fútil ou aleatória, pois serve a um propósito. O homem não é o centro, não é o protagonista da existência universal e quando pensamos em um contexto global, torna-se difícil acreditar que o homem perceberá este fato apenas com o que o homem pode ver no dia a dia, um mundo de automatismos que são levados do cidadão comum para as galerias. O automatismo no pensamento e nas ações é uma das ruínas de nosso tempo. 
-Este manifesto é atemporal, contra o tempo, coletivo e pode ser aprimorado por qualquer colaborador. Ele não deve pertencer a só uma época.
-Vivendo tempos de abusos que são normalizados e esquecidos, os humanitários e os relacionados ao direito dos animais. O absurdo que significa esconder a realidade para obter benefício próprio é mostrado através do irreal e utópico, ultrapassando a realidade, que já não pode ser entendida tão facilmente. O Irreal pode ser visto como sendo algo não só possível, mas cotidiano, comum. Que a arte seja a língua usada explicar tais visões
-O Lidimismo realiza uma análise lógica e profunda do tema para, em seguida, expressar-se em arte de uma maneira ordinária. Pensando em relação a Ludwig Wittgenstein, se a realidade enxergada não está dentro da linguagem, no caso do Lidimismo, ela deve ser expressa em arte.
-Muitos escritores entendem que a qualidade de sua escrita se dá uma parte pelo tamanho dos seus textos, quando, em uma era com tantas informações inúteis disponíveis, não deveríamos escrever informações que não valham a pena. As pessoas cada vez mais sentem o impacto de tantas distrações e informações inúteis, sentem quando não percebem o tempo passar em frente aos seus celulares, sentem quanto começam a ficar cansadas sem terem feito nada relevante.
-A música como ferramenta de expressão mais popular que já desenvolvemos, não deveria se entregar ao capitalismo de forma a conceber apenas obras descartáveis e sem nenhuma profundidade, ignorando toda a fractalidade possível de ser obtida de maneira racional.  
  
-A lógica e a razão passam a ser expressas de maneiras menos óbvias, irreais, estimulando a auto consciência antes esquecida em meio a redes sociais e rotinas de trabalho em prol da sobrevivência .
-Pegue como exemplo um dos milhões de moradores de rua durante a noite na cidade de São Paulo, grande metrópole do Brasil. O realismo se preocuparia apenas com a reprodução fiel dos detalhes da cena, artistas abstratos fariam o mesmo, mas de uma forma mais pessoal. Surrealistas se entregariam ao subconsciente e qualquer aleatoriedade que ali encontrassem, lidimistas representariam o visível e o invisível, a fome tomaria forma, assim como o desconhecido da noite nas ruas, o medo, o abandono, sinais dos possíveis motivos até aquele momento, extrapolações para momentos futuros, todo o possível de ser analisado e inferido tomaria vida em uma arte que poderia ser similar esteticamente a uma das outras obras, mas não seria vazia de razão para existir, mesmo que o artista optasse por não revelar toda a análise, preferindo deixar para o público o quebra-cabeças que deverá ser montado peça a peça.
-
-Notam-se alguns pontos:
-
-* O mundo deixou de ser linear, talvez nunca tenha sido, então a perspectiva nas artes também deve deixar da mesma forma, ela pode ser forçada, curvilínea, esférica, não-euclideana. Não pode ser óbvia;
-* A tecnologia facilita a falsificação, é necessário utilizar _blockchain_ ou outra tecnologia facilitadora de nosso tempo para registro de toda arte, garantindo a autenticidade do seu trabalho e colaborando com a análise lógica de especialistas;
-* O automatismo pode ser racional ao assunto abordado na arte, pode ser experimental. Automatismo puro e aleatório do subconsciente como o pregado pelos Surrealistas é o que faz a geração atual fugir de reflexões necessárias a sua própria sobrevivência;
-* O minimalismo pode ser complexo, como nossa nova realidade em um período de pós-verdade.
-* A realidade pode ser manipulada. A realidade é incompleta. Cabe a arte usar a lógica, a razão e a ética para preencher essas lacunas e servir a um espectro maior, social, e não um espectro de arte pela arte;
-* Somente a ciência e a filosofia cética, analítica,  podem levar a um futuro onde é possível viver todo o espectro da humanidade.
-
-#### Espectativas
-
-Este manifesto é um filho de seu tempo, um filho que deverá evoluir para outros tempos. Um lembrete do poder da arte em tempos de dificuldade. Este manifesto é atemporal enquanto vivermos em um mundo de insanidades e enquanto houver pessoas interessadas em algo melhor do que isto.
-
-Com a esperança de um dia este texto se tornar apenas uma referência de épocas passadas onde a ignorância e superficialidade precisavam ser combatidas pois, de alguma forma, ainda eram celebrada.
 
 
 
 
-
-
-
-
-1 - Hábitos - Disciplina e conscistência para fundamentar os pilares do negócio
-2 - Identidade - Ser uma pessoa falando com pessoas e não algo super formal
-
-
-arte lidimista nas ruas
-
-Não aceitar essa suposta realidade que é imposta
-Utilizar a dúvida para chegar em uma expressão
-
-Uma arte desenganadora
-
-Como parecem e não como são
-Humildade em relação a razão
