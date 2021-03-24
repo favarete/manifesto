@@ -3,3 +3,6 @@
 
 # Temp Files
 Temp/
+
+#Jetbrains
+.idea/
