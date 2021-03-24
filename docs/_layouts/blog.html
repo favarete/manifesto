@@ -2,7 +2,11 @@
 layout: default
 ---
 
-<div class="posts">
+<article class="posts">
+    <div class="entry">
+        {{ content }}
+    </div>
+
     {% for post in paginator.posts %}
     <article class="post">
         <a href="{{ site.baseurl }}{{ post.url }}">
@@ -46,4 +50,4 @@ layout: default
         {% endif %}
     </div>
     {% endif %}
-</div>
+</article>
