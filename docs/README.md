@@ -1,3 +1,5 @@
+## Página
+
 O template da página Lidimista é uma personalização e adaptação do template [Reverie](https://github.com/amitmerchant1990/reverie) para [Jekyll](https://jekyllrb.com/). O Reverie é um fork do [jekyll-now](https://github.com/barryclark/jekyll-now) com algumas personalizações próprias.
 
 ## Colaborações
