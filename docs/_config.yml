@@ -1,10 +1,10 @@
 #
 # Configuration flags
 #
-name: Movimento Lidimista
+name: Lidimismo
 author: Rodrigo Favarete
 avatar: /images/lidimism.png
-description:
+description: Movimento Lidimista
 
 # Includes an icon in the footer for each username
 footer-links:
