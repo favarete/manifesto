@@ -43,7 +43,7 @@ enforce_ssl: https://favarete.github.io/manifesto
 # and NOT the User repository (http://yourusername.github.io)
 # then the baseurl will be like this: "/repository-name"
 baseurl: "/"
-articlesurl: "/blog"
+articlesurl: "/publicacoes"
 
 #
 # !! System flags
@@ -78,7 +78,7 @@ plugins:
 include: ['_pages']
 
 paginate: 6
-paginate_path: "/blog/page:num/"
+paginate_path: "/blog/pagina:num/"
 
 
 # Exclude these files from the production _site
