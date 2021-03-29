@@ -1,6 +1,6 @@
 ## MANIFESTO LIDIMISTA
 
-<p style="text-align: right"> 01 Abril de 2021 - Leitura de 20 min </p>
+<p style="text-align: right; font-size: small; color: #93A1A1"> 01 Abril de 2021 - Leitura de 15 min </p>
 
 A arte sempre será filha de sua época, uma filha que sempre nascerá — independentemente do desejo da época — e que poderá tomar qualquer forma, qualquer mídia. Sem a educação correta ela poderá se perder no tempo, sendo engolida por alguma rede social — ou projeto de propaganda publicitária —  e expelida de volta em forma de entretenimento barato e fragmentador, reforçador em sua essência simplista e uma poderosa ferramenta de controle de massas e consumismo. Uma anestesia que leva quem a viu à letargia enquanto o poder, no papel de pai abusador, avança sobre todos como água penetrando em seus poros.
 
