@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Manifesto Lidimista
 permalink: /
 ---
 
-{% include_relative manifest/lidimist_manifest_{{ site.textReview }}.md %}
+{% include_relative manifest/ManifestoLidimista{{ site.textReview }}.md %}
