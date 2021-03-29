@@ -44,6 +44,7 @@ enforce_ssl: https://favarete.github.io/manifesto
 # then the baseurl will be like this: "/repository-name"
 baseurl: "/"
 articlesurl: "/publicacoes"
+textReview: "v1"
 
 #
 # !! System flags
