@@ -19,7 +19,13 @@
   </head>
 
   <body>
-    {% include analytics.html %}
+    {% if site.google_analytics %}
+      <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W7D7FF3"
+                height="0" width="0" style="display:none;visibility:hidden">
+        </iframe>
+      </noscript>
+    {% endif %}
     <div id="bar"></div>
     <div class="wrapper-container">
 <!--      <div class="wrapper-masthead">-->
