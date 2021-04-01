@@ -5,6 +5,3 @@ O template da página Lidimista é uma personalização e adaptação do templat
 ## Colaborações
 
 Se você se identifica com a arte Lidimista e quer publicar um artigo sobre sua arte Lidimista, é um desenvolvedor que tem alguma sugestão de melhoria na página ou quer tirar alguma dúvida ou relatar algum problema. Você é muito bem vindo a abrir um PR!
-
-## Licença
-MIT
