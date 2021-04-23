@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <title>Flex - {{ page.title }}</title>
+      <meta name="viewport" content="width=device-width">
+
+      <!-- syntax highlighting CSS -->
+      <link rel="stylesheet" href="./css/syntax.css">
+
+      <!-- Custom CSS -->
+      <link rel="stylesheet" href="./css/main.css">
+
+      <!-- Responsive CSS -->
+      <link rel="stylesheet" href="./css/responsive.css">
+
+      <!-- Google Fonts -->
+      <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700' rel='stylesheet' type='text/css'>
+      <link href='https://fonts.googleapis.com/css?family=Raleway:300,400,700' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+    <div class="site">
+      <div id="sidebar" class="sidebar">
+        <section class="container column">
+          <div id="sidebar-button-close" class="mobile-close-button">
+            <img src="./images/sidebar-button-close.png">
+          </div>
+          <div class="header">
+            {% if site.lang == "pt-br" and site.default_locale_in_subfolder != true %}
+              <h1 class="title">
+                <a href="{{ site.baseurl_root }}/">
+                  <img id="logo" src="./images/logo.png">
+                  <p class="manifesto-title">Manifesto Lidimista</p>
+                </a>
+
+              </h1>
+            {% else %}
+              <h1 class="title">
+                <a href="{{ site.baseurl_root }}/{{ site.lang }}">
+                  <img id="logo" src="./images/logo.png">
+                  <p class="manifesto-title">Lidimist Manifesto</p>
+                </a>
+              </h1>
+            {% endif %}
+          </div>
+        </section>
+        <div class="posts">
+          <ul class="posts-list">
+            {% if site.lang == "pt-br" %}
+            <p class="center">Últimas Publicações</p>
+            {% else %}
+            <p class="center">Latest Posts</p>
+            {% endif %}
+            <div class="post-latest">
+              {% for post in site.posts %}
+                <li class="post-link">
+                  <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+                    {{ post.title }}
+                  </a>
+                </li>
+              {% endfor %}
+            </div>
+            {% if site.pages.size > 1 %}
+
+              {% for page in site.pages %}
+                {% if page.title != "Home" %}
+                  {% unless page.url contains "page2" or page.url contains "page3" %}
+                    <li class="post-link">
+
+                        {% if page.title == "Pagination" %}
+
+                          <a class="post-title" href="{{ site.baseurl }}{{ page.url }}">
+                            {% if site.lang == "pt-br" %}
+                              Todas Publicações
+                            {% else %}
+                              All Posts
+                            {% endif %}
+                          </a>
+                        {% else %}
+                          <a class="post-title" target="_blank" href="{{ site.baseurl }}{{ page.url }}">
+                            RSS
+                          </a>
+                        {% endif %}
+                    </li>
+                  {% endunless %}
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+          </ul>
+        </div>
+        <div class="footer">
+          <a class="link-pt-br" href="{% tl root pt-br %}">pt-br</a>
+          <a class="link-en" href="{% tl root en %}">en</a>
+        </div>
+      </div>
+        {{ content }}
+    </div>
+    <script src="./scripts/responsive.js" type="text/javascript"></script>
+  </body>
+</html>

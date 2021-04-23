@@ -1,0 +1,12 @@
+global:
+  tagline: English
+  manifesto: Manifesto
+  instagram: Instagram
+langs:
+  pt-br: Português
+  en: English
+pages:
+  example: example
+  language: Leia em
+titles:
+  pagination: Pagination
