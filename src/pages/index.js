@@ -1,75 +1,85 @@
 import * as React from "react"
 import {graphql} from "gatsby"
 import Seo from "../components/seo"
-import Layout from "../components/layout"
 import {MDXRenderer} from "gatsby-plugin-mdx";
 import {css, StyleSheet} from "aphrodite-jss";
-import {Grid} from "@material-ui/core";
+import {Container, Grid} from "@material-ui/core";
+import {MDXProvider} from "@mdx-js/react";
+import Header from "../components/header";
+
+const components = {
+    p: props => <p {...props} className={css(styles.content)}/>
+}
 
 const Index = ({data}) => {
     return (
-        <Layout>
+        <Container>
             <Seo title="Home"/>
-            {data.allFile.nodes.map(({childMdx: node}) => (
-                <>
-                    <Grid
-                        container
-                        item
-                        direction="column"
-                        alignContent="flex-start"
-                        justifyContent="flex-start"
-                        alignItems="flex-start"
-                    >
-                        <Grid item>
-                            <h1 className={css(styles.title)}>
-                                {node.frontmatter.title}
-                            </h1>
-                        </Grid>
-                        <Grid item>
-                            <p className={css(styles.subInfo)}>
-                                {node.frontmatter.read}
-                            </p>
-                        </Grid>
-                        <Grid item>
-                            <MDXRenderer>
-                                {node.body}
-                            </MDXRenderer>
-                        </Grid>
-                        <Grid
-                            container
-                            item
-                            direction="column"
-                            alignContent="flex-start"
-                            justifyContent="flex-start"
-                            alignItems="flex-start"
-                        >
-                            <Grid item>
-                                <p className={css(styles.subInfo)}>
-                                    {node.frontmatter.release}
-                                </p>
+            <Header path={"/"} />
+            <Grid item>
+                <MDXProvider components={components}>
+                    {data.allFile.nodes.map(({childMdx: node}) => (
+                        <>
+                            <Grid
+                                container
+                                item
+                                direction="column"
+                                alignContent="flex-start"
+                                justifyContent="flex-start"
+                                alignItems="flex-start"
+                            >
+                                <Grid item>
+                                    <h1 className={css(styles.title)}>
+                                        {node.frontmatter.title}
+                                    </h1>
+                                </Grid>
+                                <Grid item>
+                                    <p className={css(styles.subInfo)}>
+                                        {node.frontmatter.read}
+                                    </p>
+                                </Grid>
+                                <Grid item>
+                                    <MDXRenderer>
+                                        {node.body}
+                                    </MDXRenderer>
+                                </Grid>
+                                <Grid
+                                    container
+                                    item
+                                    direction="column"
+                                    alignContent="flex-start"
+                                    justifyContent="flex-start"
+                                    alignItems="flex-start"
+                                >
+                                    <Grid item>
+                                        <p className={css(styles.subInfo)}>
+                                            {node.frontmatter.release}
+                                        </p>
+                                    </Grid>
+                                    <Grid item>
+                                        <p className={css(styles.subInfo)}>
+                                            {`${node.frontmatter.version}, ${node.frontmatter.update}`}
+                                        </p>
+                                    </Grid>
+                                    <Grid item>
+                                        <p>
+                                            <a
+                                                href={node.frontmatter.authorLink}
+                                                target="_blank"
+                                                rel="noreferrer"
+                                                className={css(styles.links)}
+                                            >
+                                                {node.frontmatter.author}
+                                            </a>
+                                        </p>
+                                    </Grid>
+                                </Grid>
                             </Grid>
-                            <Grid item>
-                                <p className={css(styles.subInfo)}>
-                                    {`${node.frontmatter.version}, ${node.frontmatter.update}`}
-                                </p>
-                            </Grid>
-                            <Grid item>
-                                <p>
-                                    <a
-                                        href={node.frontmatter.authorLink}
-                                        target="_blank"
-                                        rel="noreferrer"
-                                        className={css(styles.links)}
-                                    >
-                                        {node.frontmatter.author}
-                                    </a>
-                                </p>
-                            </Grid>
-                        </Grid>
-                    </Grid>
-                </>
-            ))}
-        </Layout>
+                        </>
+                    ))}
+                </MDXProvider>
+            </Grid>
+        </Container>
     )
 }
 

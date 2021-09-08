@@ -1,21 +1,25 @@
 import * as React from "react"
-import {LocalizedLink, useLocalization} from "gatsby-theme-i18n"
-import Layout from "../components/layout"
 import Seo from "../components/seo"
+import {useTranslation} from "react-i18next";
+import {LocalizedLink} from "gatsby-theme-i18n"
+import {Container} from "@material-ui/core";
+import Header from "../components/header";
 
 const NotFound = () => {
-    const {locale, localizationPath} = useLocalization()
+    const { t } = useTranslation("404");
 
     return (
-        <Layout>
-            <Seo title="404 - Page Not Found"/>
-            {console.log(localizationPath)}
+        <Container>
+            <Seo title={`404 - ${t("notFound")}`}/>
+            <Header path={"/404/"} />
             <h1>404</h1>
-            <p>Page Not Found</p>
+            <p>{t("notFound")}</p>
             <p>
-                <LocalizedLink to="/">Link to index page</LocalizedLink>
+                <LocalizedLink to="/">
+                    {t("return")}
+                </LocalizedLink>
             </p>
-        </Layout>
+        </Container>
     )
 }
 

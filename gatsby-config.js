@@ -32,13 +32,22 @@ module.exports = {
     `gatsby-plugin-material-ui`,
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-mdx`,
     {
       resolve: `gatsby-theme-i18n`,
       options: {
         defaultLang: `en`,
         locales: process.env.LOCALES || `en pt`,
-        configPath: require.resolve(`./i18n/config.json`),
-        localizationPath: require.resolve(`./i18n/localization.json`)
+        configPath: require.resolve(`./i18n/config.json`)
+      },
+    },
+    {
+      resolve: `gatsby-theme-i18n-react-i18next`,
+      options: {
+        locales: `./i18n/react-i18next`,
+        i18nextOptions: {
+          ns: ["404"],
+        },
       },
     },
     {
@@ -53,13 +62,5 @@ module.exports = {
         icon: `.images/logo.png`
       },
     },
-    {
-      resolve: `gatsby-plugin-mdx`,
-      options: {
-        defaultLayouts: {
-          default: require.resolve(`./src/components/layout.js`),
-        },
-      },
-    }
   ],
 }
