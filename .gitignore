@@ -3,6 +3,11 @@
 
 # Temp Files
 Temp/
+.cache/
 
-#Jetbrains
+# Jetbrains
 .idea/
+
+# Others
+node_modules/
+public/

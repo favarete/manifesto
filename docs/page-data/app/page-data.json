@@ -1,0 +1,6 @@
+{
+    "componentChunkName": "component---src-pages-app-js",
+    "path": "/app/",
+    "result": {"pageContext":{"matchPath":"/app/*","locale":"en","hrefLang":"en-US","originalPath":"/app/","dateFormat":"MM/DD/YYYY"}},
+    "staticQueryHashes": ["1239077767","3280999885","63159454"],
+    "matchPath": "/app/*"}
