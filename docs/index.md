@@ -1,0 +1,3 @@
+## About
+
+Lidimist Manifesto website
